@@ -34,6 +34,10 @@ header.bet h1 {
   font-size: 2rem; 
 }
 
+header.btn{
+  justify-content: center;
+}
+
 .btn {
   font-weight: 700;
   text-transform: uppercase;
