@@ -15,7 +15,7 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color: rgba(255, 255, 230, 0.8); 
 }
 
 header.bet {
@@ -37,7 +37,7 @@ header.bet h1 {
 .btn {
   font-weight: 700;
   text-transform: uppercase;
-  border-radius: 300px;
+  border-radius: 200px;
   font-family: 'roboto condensed', sans-serif;
 }
 
